@@ -19,7 +19,7 @@ from telegram.ext import (
 # ===== CONFIG =====
 CPM1_API_KEY = "AIzaSyBW1ZbMiUeDZHYUO2bY8Bfnf5rRgrQGPTM"
 CPM2_API_KEY = "AIzaSyCQDz9rgjgmvmFkvVfmvr2-7fT4tfrzRRQ"
-BOT_TOKEN = "PUT_BOT_TOKEN_HERE"
+BOT_TOKEN = "8664082287:AAHri0WpzqQbtT3bkhjctl5PTEvUiSORfqU"
 
 # ===== CPM FUNCTIONS =====
 def login_request(email, password, api_key):
