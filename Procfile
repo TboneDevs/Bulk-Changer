@@ -1,1 +1,1 @@
-worker: python bulkemail.py
+worker: python main.py
